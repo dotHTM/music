@@ -2,6 +2,8 @@
 
 ## sketch / 2019-06-06 trap beat sketch.opz
 
+Created with official firmware v1.1.27
+
 [Soundcloud Recording](https://soundcloud.com/dothtm/trap-noodle-beat)
 
 Technique and inspiration:
